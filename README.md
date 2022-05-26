@@ -1,3 +1,7 @@
+# このリポジトリについて
+[MDNのReactチュートリアル](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)的なものを進める。なお、サイトではJavascriptで進めているが、本リポジトリではTypescriptを用いる。
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
